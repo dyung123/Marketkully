@@ -1,0 +1,49 @@
+form{
+    text-align: center;
+}
+form legend{
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+form p{
+    margin-left: 220px;
+    font-size: 12px;
+    font-weight: 550;
+}
+input, button{
+    width: 340px; height: 44px;
+    display: block;
+    margin: 0px auto 10px auto;
+    padding: 0px 11px 1px 15px;
+    border-radius: 5px;
+    font-size: 15px; 
+}
+input{
+    border: 1px solid #919191;
+    outline: 1px #000;
+}
+button{
+    width: 370px;
+    height: 50px;
+}
+.login, .join{
+    font-weight: bold;
+    border: 1px solid #5f0080;
+}
+.login{
+    background: #5f0080;
+    color: #fff;
+}
+.join{
+    color: #5f0080;
+}
+
+.find a{
+    font-size: 13px;
+    color: #333;
+    text-decoration: none;
+    position: absolute;
+    right: 0px; top: 0px;
+}
